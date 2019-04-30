@@ -1,0 +1,12 @@
+[submodule "Biomass_App"]
+	path = Biomass_App
+	url = https://github.com/ArthurAttout/Biomass_App
+[submodule "Biomass_REST_API"]
+	path = Biomass_REST_API
+	url = https://github.com/ArthurAttout/Biomass_REST_API
+[submodule "Biomass_Dashboard_Server"]
+	path = Biomass_Dashboard_Server
+	url = https://github.com/ArthurAttout/Biomass_Dashboard_Server
+[submodule "Biomass_Dashboard_Client"]
+	path = Biomass_Dashboard_Client
+	url = https://github.com/ArthurAttout/Biomass_Dashboard_Client
