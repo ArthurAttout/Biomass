@@ -10,3 +10,6 @@
 [submodule "Biomass_Dashboard_Client"]
 	path = Biomass_Dashboard_Client
 	url = https://github.com/ArthurAttout/Biomass_Dashboard_Client
+[submodule "Biomass_ML"]
+	path = Biomass_ML
+	url = https://github.com/ArthurAttout/Biomass_ML
